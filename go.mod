@@ -1,4 +1,4 @@
-module github.com/kspiridonov/post05
+module github.com/kspiridonov/post05/v2
 
 go 1.21.3
 
